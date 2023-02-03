@@ -1,0 +1,90 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background: rgb(245, 245, 245);
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(0, 101, 119);
+    text-align: center;
+    
+}
+h2{
+    font-family:'Times New Roman', Times, serif ;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-align: left;
+    font-size: 15px;
+}
+.card{
+    background-color: rgb(16, 164, 190);
+    width: 800px;
+    height: 150px;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+    border-bottom: 5px solid rgb(1, 111, 131);
+    border-left: 5px solid rgb(1, 111, 131) ;
+    position: relative;
+}
+.card4{
+    background-color: rgb(16, 164, 190);
+    width: 800px;
+    height: 350px;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+    border-bottom: 5px solid rgb(1, 111, 131);
+    border-left: 5px solid rgb(1, 111, 131) ;
+    position: relative;
+}
+.card6{
+    background-color: rgb(16, 164, 190);
+    width: 800px;
+    height: 300px;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+    border-bottom: 5px solid rgb(1, 111, 131);
+    border-left: 5px solid rgb(1, 111, 131) ;
+    position: relative;
+    left: 480px;
+}
+
+
+.card2{
+    background-color: rgb(16, 164, 190);
+    width: 800px;
+    height: 200px;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+    border-bottom: 5px solid rgb(1, 111, 131);
+    border-left: 5px solid rgb(1, 111, 131) ;
+    position: relative;
+    left: 480px;
+}
+.card3{
+    background-color: rgb(16, 164, 190);
+    width: 800px;
+    height: 675px;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+    border-bottom: 5px solid rgb(1, 111, 131);
+    border-left: 5px solid rgb(1, 111, 131) ;
+    position: relative;
+    left: 480px;
+}
